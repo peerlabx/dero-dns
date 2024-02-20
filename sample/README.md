@@ -1,3 +1,3 @@
 See Sample
 
-[https://www.cryptopapa.com/](Preview)
+[Preview]([https://www.cryptopapa.com/preview-dns)
